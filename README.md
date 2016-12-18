@@ -1,1 +1,1 @@
-# Statistics-154-Machine-Learning
+# Statistics154-Machine Learning
